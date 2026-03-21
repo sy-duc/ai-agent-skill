@@ -4,6 +4,11 @@
       "name": "cresco-weekly-report",
       "description": "Tạo báo cáo công việc hàng tuần cho KH Cresco",
       "category": "productivity"
+    },
+    {
+      "name": "aws-saa-note",
+      "description": "Tóm tắt kiến thức từ giải thích đáp án khi luyện đề AWS SAA và bổ sung vào Learning Map",
+      "category": "productivity"
     }
   ],
   "categories": {

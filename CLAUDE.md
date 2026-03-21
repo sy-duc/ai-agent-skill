@@ -11,6 +11,7 @@ Khi người dùng yêu cầu một việc khớp với skill bên dưới → *
 | Từ khoá kích hoạt | Skill | File |
 |---|---|---|
 | "báo cáo tuần", "report", "cresco" | Báo cáo tuần Cresco | `skills/cresco-weekly-report/skill.md` |
+| "luyện đề AWS", "practice note", "thêm vào learning map" | AWS Practice Note | `skills/aws-saa-note/skill.md` |
 
 > Khi thêm skill mới, cập nhật bảng này.
 

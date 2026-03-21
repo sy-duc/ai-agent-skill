@@ -1,0 +1,9 @@
+{
+  "name": "aws-saa-note",
+  "version": "0.1.0",
+  "description": "Tóm tắt kiến thức từ giải thích đáp án khi luyện đề AWS SAA và bổ sung vào Learning Map",
+  "author": "hosyduc",
+  "tags": ["aws", "learning", "productivity", "note-taking"],
+  "dependencies": [],
+  "enabled": true
+}
