@@ -1,0 +1,9 @@
+{
+  "name": "skill-name",
+  "version": "0.1.0",
+  "description": "Short description",
+  "author": "hosyduc",
+  "tags": [],
+  "dependencies": [],
+  "enabled": true
+}

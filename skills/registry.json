@@ -1,0 +1,17 @@
+{
+  "skills": [
+    {
+      "name": "cresco-weekly-report",
+      "description": "Tạo báo cáo công việc hàng tuần cho KH Cresco",
+      "category": "productivity"
+    }
+  ],
+  "categories": {
+    "coding": "Code generation, refactoring, review",
+    "research": "Web search, summarization, analysis",
+    "productivity": "Task management, automation, workflows",
+    "writing": "Content creation, editing, translation",
+    "data": "Data processing, visualization, analysis",
+    "devops": "CI/CD, deployment, infrastructure"
+  }
+}

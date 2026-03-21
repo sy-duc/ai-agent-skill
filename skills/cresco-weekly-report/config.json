@@ -1,0 +1,9 @@
+{
+  "name": "cresco-weekly-report",
+  "version": "0.1.0",
+  "description": "Tạo báo cáo công việc hàng tuần cho Khách hàng Cresco",
+  "author": "hosyduc",
+  "tags": ["reporting", "productivity", "weekly"],
+  "dependencies": [],
+  "enabled": true
+}
