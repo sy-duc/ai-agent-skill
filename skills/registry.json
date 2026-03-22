@@ -9,6 +9,11 @@
       "name": "aws-saa-note",
       "description": "Tóm tắt kiến thức từ giải thích đáp án khi luyện đề AWS SAA và bổ sung vào Learning Map",
       "category": "productivity"
+    },
+    {
+      "name": "blog-post-writer",
+      "description": "Tạo bài viết blog kỹ thuật từ ghi chú hoặc kiến thức thô — đảm bảo đúng, rõ, có ví dụ, có góc nhìn riêng, biết giới hạn",
+      "category": "writing"
     }
   ],
   "categories": {
